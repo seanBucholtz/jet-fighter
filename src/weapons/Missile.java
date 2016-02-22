@@ -7,7 +7,7 @@ package weapons;
  * @author seanbucholtz
  *
  */
-public interface Misile extends Projectile {
+public interface Missile extends Projectile {
 
 	public int[] getDynamicPath();
 	
