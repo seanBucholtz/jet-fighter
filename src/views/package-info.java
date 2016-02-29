@@ -5,4 +5,4 @@
  * @author seanbucholtz
  *
  */
-package weapons;
+package views;

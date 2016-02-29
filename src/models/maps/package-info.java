@@ -5,4 +5,4 @@
  * @author seanbucholtz
  *
  */
-package crafts;
+package models.maps;

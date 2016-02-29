@@ -1,4 +1,4 @@
-package weapons;
+package models.weapons;
 
 public interface Projectile {
 

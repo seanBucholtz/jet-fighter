@@ -1,7 +1,7 @@
 /**
  * 
  */
-package crafts;
+package models.crafts;
 
 /**
  * @author seanbucholtz

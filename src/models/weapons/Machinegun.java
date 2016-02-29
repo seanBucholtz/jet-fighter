@@ -1,7 +1,7 @@
 /**
  * 
  */
-package weapons;
+package models.weapons;
 
 /**
  * @author seanbucholtz
